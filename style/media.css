@@ -1,0 +1,634 @@
+@media (max-width: 575.98px) {
+  .scroll-up-box {
+    position: fixed;
+    right: 15px;
+    bottom: 15px;
+  }
+  .scroll-up-box i {
+    font-size: 20px;
+    color: #d2f1e1;
+  }
+  .home-section {
+    margin-top: 1rem;
+  }
+  .home-section h1 {
+    font-size: 2rem;
+    text-align: center;
+  }
+  .home-section .home-section-description {
+    font-size: 0.8rem;
+    text-align: center;
+  }
+  .get-strarted-form {
+    justify-content: center;
+  }
+  .btn-style-get-started {
+    width: 80%;
+    height: 2.6rem;
+    margin-top: 0.3rem;
+  }
+  .get-started-link {
+    font-size: 0.75rem;
+    text-align: center;
+  }
+  .companeis {
+    margin-top: 1.875rem;
+  }
+  .companeis p {
+    width: 100%;
+    padding: 0 1rem;
+    font-size: 1rem;
+    text-align: center;
+  }
+  .img-div {
+    margin-bottom: 1.3rem;
+  }
+  .image2-div {
+    display: none;
+  }
+  .profile-section {
+    margin-top: 2rem;
+  }
+  .profile-section-h1 {
+    width: 80%;
+    font-weight: 600;
+  }
+  .boxes-div1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .profile-section-h1 {
+    text-align: center;
+    width: 100%;
+  }
+  .boxes-div {
+    margin-top: 1rem;
+  }
+  .box-radius-title {
+    font-size: 1.2rem;
+    text-align: center;
+  }
+  .box-radius-paragraph {
+    text-align: center;
+  }
+  .our-carosal {
+    margin-top: 1.875rem;
+  }
+  .carousel-control-prev,
+  .carousel-control-next {
+    width: 0;
+    top: 1.25rem;
+    width: 1.25rem;
+    height: 1.25rem;
+    left: auto;
+  }
+  .carousel-control-prev {
+    margin-left: 20px;
+  }
+  .carousel-control-next {
+    margin-right: 30px;
+  }
+  .fa-arrow-left,
+  .fa-arrow-right {
+    font-size: 1.5rem;
+  }
+  .our-carosal .carosal-title {
+    text-align: center;
+  }
+  .carosel-div-title {
+    font-size: 1.3rem;
+    text-align: center;
+  }
+  .carousel-div .carosel-div-paragraph {
+    width: 100%;
+    font-size: 0.8rem;
+  }
+  .our-teacher {
+    width: 100%;
+  }
+  .our-teacher img {
+    width: 60px;
+  }
+  .our-teacher h6 {
+    font-size: 1rem;
+  }
+  .our-teacher {
+    font-size: 0.8rem;
+  }
+
+  .our-cards {
+    margin-top: 10px;
+    margin-bottom: 30px;
+  }
+  .card1-justify {
+    justify-content: center;
+  }
+  .card2-justify {
+    justify-content: center;
+  }
+  .card3-justify {
+    justify-content: center;
+  }
+  .card-title {
+    margin-bottom: 30px;
+    text-align: center;
+  }
+  .card1 {
+    width: 90%;
+  }
+  .card-type h1 {
+    font-size: 20px;
+  }
+  .footer-divs h1 {
+    text-align: center;
+  }
+  .footer-divs p {
+    text-align: center;
+  }
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+  .scroll-up-box {
+    position: fixed;
+    right: 15px;
+    bottom: 15px;
+  }
+  .scroll-up-box i {
+    font-size: 20px;
+    color: #d2f1e1;
+  }
+  .home-section {
+    margin-top: 1.3rem;
+  }
+  .home-section h1 {
+    font-size: 2.5rem;
+    text-align: center;
+  }
+  .home-section .home-section-description {
+    font-size: 0.9rem;
+    text-align: center;
+  }
+  .get-strarted-form {
+    justify-content: center;
+  }
+  .btn-style-get-started {
+    width: 60%;
+    height: 2.6rem;
+    margin-top: 0.3rem;
+  }
+  .get-started-link {
+    font-size: 0.75rem;
+    text-align: center;
+  }
+  .companeis {
+    margin-top: 1.875rem;
+  }
+  .companeis p {
+    width: 100%;
+    padding: 0 1rem;
+    font-size: 1rem;
+    text-align: center;
+  }
+  .img-div {
+    margin-bottom: 1.3rem;
+  }
+  .image2-div {
+    display: none;
+  }
+  .profile-section {
+    margin-top: 2rem;
+  }
+  .profile-section-h1 {
+    width: 80%;
+    font-weight: 600;
+  }
+  .boxes-div1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .profile-section-h1 {
+    text-align: center;
+    width: 100%;
+  }
+  .boxes-div {
+    margin-top: 1rem;
+  }
+  .box-radius-title {
+    font-size: 1.2rem;
+    text-align: center;
+  }
+  .box-radius-paragraph {
+    text-align: center;
+  }
+  .our-carosal {
+    margin-top: 1.875rem;
+  }
+  .carousel-control-prev,
+  .carousel-control-next {
+    width: 0;
+    top: 1.25rem;
+    width: 1.25rem;
+    height: 1.25rem;
+    left: auto;
+  }
+  .carousel-control-prev {
+    margin-left: 20px;
+  }
+  .carousel-control-next {
+    margin-right: 30px;
+  }
+  .fa-arrow-left,
+  .fa-arrow-right {
+    font-size: 1.5rem;
+  }
+  .our-carosal .carosal-title {
+    text-align: center;
+  }
+  .carosel-div-title {
+    font-size: 1.3rem;
+    text-align: center;
+  }
+  .carousel-div .carosel-div-paragraph {
+    width: 100%;
+    font-size: 0.8rem;
+  }
+  .our-teacher {
+    width: 100%;
+  }
+  .our-teacher img {
+    width: 60px;
+  }
+  .our-teacher h6 {
+    font-size: 1rem;
+  }
+  .our-teacher {
+    font-size: 0.8rem;
+  }
+  .our-cards {
+    margin-top: 10px;
+    margin-bottom: 30px;
+  }
+  .card1-justify {
+    justify-content: center;
+  }
+  .card2-justify {
+    justify-content: center;
+  }
+  .card3-justify {
+    justify-content: center;
+  }
+  .card-title {
+    margin-bottom: 30px;
+    text-align: center;
+  }
+  .card1 {
+    width: 60%;
+  }
+  .card-type h1 {
+    font-size: 20px;
+  }
+  .footer-divs h1 {
+    text-align: center;
+  }
+  .footer-divs p {
+    text-align: center;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+  .home-section {
+    margin-top: 1.5rem;
+  }
+  .home-section h1 {
+    font-size: 2.2rem;
+  }
+  .home-section .home-section-description {
+    font-size: 0.8rem;
+  }
+  .btn-style-get-started {
+    width: 40%;
+    height: 2.6rem;
+    margin-top: 0.3rem;
+    font-size: 0.8rem;
+  }
+  .get-started-link {
+    font-size: 0.75rem;
+  }
+  .companeis {
+    margin-top: 2.5rem;
+  }
+  .companeis h1 {
+    text-align: center;
+    font-size: 2.5rem;
+  }
+  .companeis p {
+    width: 100%;
+    padding: 0 1rem;
+    font-size: 1rem;
+    text-align: center;
+    margin-bottom: 1.8rem;
+  }
+  .img-div {
+    margin-bottom: 2rem;
+  }
+  .image2-div {
+    display: none;
+  }
+  .profile-section {
+    margin-top: 2rem;
+  }
+  .profile-section-h1 {
+    width: 80%;
+    font-weight: 600;
+  }
+  .boxes-div1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .profile-section-h1 {
+    text-align: center;
+    width: 100%;
+  }
+  .boxes-div {
+    margin-top: 1rem;
+  }
+  .box-radius-title {
+    font-size: 1.2rem;
+    text-align: center;
+  }
+  .box-radius-paragraph {
+    text-align: center;
+  }
+  .our-carosal {
+    margin-top: 1.875rem;
+  }
+  .carousel-control-prev,
+  .carousel-control-next {
+    width: 0;
+    top: 1.25rem;
+    width: 1.25rem;
+    height: 1.25rem;
+    left: auto;
+  }
+  .carousel-control-prev {
+    margin-left: 20px;
+  }
+  .carousel-control-next {
+    margin-right: 30px;
+  }
+  .fa-arrow-left,
+  .fa-arrow-right {
+    font-size: 2rem;
+  }
+  .our-carosal .carosal-title {
+    text-align: center;
+  }
+  .carosel-div-title {
+    font-size: 1.7rem;
+    text-align: center;
+  }
+  .carousel-div .carosel-div-paragraph {
+    width: 100%;
+    font-size: 1rem;
+  }
+  .our-teacher {
+    width: 100%;
+  }
+  .our-teacher img {
+    width: 60px;
+  }
+  .our-teacher h6 {
+    font-size: 1rem;
+  }
+  .our-teacher {
+    font-size: 0.8rem;
+  }
+  .our-cards {
+    margin-top: 10px;
+    margin-bottom: 30px;
+  }
+  .card1-justify {
+    justify-content: center;
+  }
+  .card2-justify {
+    justify-content: center;
+  }
+  .card3-justify {
+    justify-content: center;
+  }
+  .card-title {
+    margin-bottom: 30px;
+    text-align: center;
+  }
+  .card1 {
+    width: 100%;
+  }
+  .card-type h1 {
+    font-size: 20px;
+  }
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  .home-section {
+    margin-top: 1.5rem;
+  }
+  .home-section h1 {
+    font-size: 3rem;
+  }
+  .home-section .home-section-description {
+    font-size: 0.8rem;
+  }
+  .btn-style-get-started {
+    width: 40%;
+    height: 2.6rem;
+    margin-top: 0.3rem;
+  }
+  .get-started-link {
+    font-size: 12px;
+  }
+  .companeis h1 {
+    font-size: 2.5rem;
+  }
+  .companeis p {
+    width: 70%;
+    font-size: 1.1rem;
+    margin-bottom: 1.8rem;
+  }
+  .profile-section {
+    margin-top: 2rem;
+  }
+  .boxes-div {
+    margin-top: 2rem;
+  }
+  .box-radius-title {
+    font-size: 1.3rem;
+    margin-top: 1rem;
+  }
+  .box-radius-paragraph {
+    font-size: 0.8rem;
+  }
+  .carousel-control-prev,
+  .carousel-control-next {
+    left: 85%;
+  }
+  .our-cards {
+    margin-top: 10px;
+    margin-bottom: 30px;
+  }
+  .card1-justify {
+    justify-content: end;
+  }
+  .card2-justify {
+    justify-content: center;
+  }
+  .card3-justify {
+    justify-content: start;
+  }
+  .card-title {
+    margin-bottom: 30px;
+    text-align: center;
+  }
+  .card1 {
+    width: 80%;
+  }
+  .card-type h1 {
+    font-size: 20px;
+  }
+}
+
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+  .home-section {
+    margin-top: 2rem;
+  }
+  .home-section h1 {
+    font-size: 4rem;
+  }
+  .home-section .home-section-description {
+    font-size: 1rem;
+  }
+  .btn-style-get-started {
+    width: 40%;
+    height: 2.6rem;
+    margin-top: 0.3rem;
+  }
+  .get-started-link {
+    font-size: 0.75rem;
+  }
+  .companeis h1 {
+    font-size: 2.5rem;
+  }
+  .companeis p {
+    width: 70%;
+    font-size: 1.1rem;
+    margin-bottom: 1.8rem;
+  }
+  .img-div {
+    margin-bottom: 2rem;
+  }
+  .profile-section {
+    margin-top: 2.3rem;
+  }
+  .boxes-div {
+    margin-top: 2rem;
+  }
+  .box-radius-title {
+    font-size: 1.3rem;
+    margin-top: 1rem;
+  }
+  .box-radius-paragraph {
+    font-size: 1rem;
+  }
+  .carousel-control-prev,
+  .carousel-control-next {
+    left: 85%;
+  }
+  .our-cards {
+    margin-top: 10px;
+    margin-bottom: 30px;
+  }
+  .card1-justify {
+    justify-content: end;
+  }
+  .card2-justify {
+    justify-content: center;
+  }
+  .card3-justify {
+    justify-content: start;
+  }
+  .card-title {
+    margin-bottom: 30px;
+    text-align: center;
+  }
+  .card1 {
+    width: 80%;
+  }
+  .card-type h1 {
+    font-size: 20px;
+  }
+}
+@media (min-width: 1400px) {
+  .home-section {
+    margin-top: 2.2rem;
+  }
+  .home-section h1 {
+    font-size: 5rem;
+  }
+  .home-section .home-section-description {
+    font-size: 1.3rem;
+  }
+  .btn-style-get-started {
+    width: 40%;
+    height: 3.5rem;
+    margin-top: 0.3rem;
+    font-size: 1.1rem;
+  }
+  .get-started-link {
+    font-size: 1rem;
+  }
+  .profile-section {
+    margin-top: 2.5rem;
+  }
+  .boxes-div {
+    margin-top: 2.3rem;
+  }
+  .box-radius-title {
+    font-size: 1.5rem;
+    margin-top: 1rem;
+  }
+  .box-radius-paragraph {
+    font-size: 1.1rem;
+  }
+  .carousel-control-prev,
+  .carousel-control-next {
+    left: 85%;
+  }
+  .our-cards {
+    margin-top: 50px;
+    margin-bottom: 30px;
+  }
+  .card1-justify {
+    justify-content: end;
+  }
+  .card2-justify {
+    justify-content: center;
+  }
+  .card3-justify {
+    justify-content: start;
+  }
+  .card-title {
+    margin-bottom: 60px;
+    text-align: center;
+  }
+  .card1 {
+    width: 80%;
+  }
+  .card-type h1 {
+    font-size: 20px;
+  }
+}
